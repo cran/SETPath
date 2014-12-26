@@ -1,0 +1,15 @@
+77292bcfce8848a69e6021b435596ce9 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+9d43e72a6c2c19db90f9b181668162c4 *R/setpath.R
+1b94a1cba4a5575c50b1073558270015 *R/setpath.wrapper.R
+67c26b34015a4dd39da0651cf5511734 *R/unbias.eigens.R
+7ab0f36a2f24f5741f7518e84e95c7bf *data/setpath.data.rda
+8cdd9617fed52e94206377f042c0ae22 *man/SETPath-package.Rd
+ccbd0ef3df48f954a53cb53c7c4f229f *man/d1.Rd
+6ae6a627763902e9775a591008d9b9ad *man/d2.Rd
+785a0b79b373c011032ad70c3ee0caef *man/pathwaygenes.Rd
+496956cf0251f3402715f34b182c8e0e *man/pathwaynames.Rd
+33b4a78917381e9c648e4d9c9840e3c4 *man/setpath.Rd
+8e21ce9fb1a60a920e8e0009611fd4fe *man/setpath.data.Rd
+fa1278c439cf5154e99408a21cb96c69 *man/setpath.wrapper.Rd
+03094f0f6d0149f76d9fdb16700406ff *man/unbias.eigens.Rd
